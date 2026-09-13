@@ -1,0 +1,99 @@
+
+[
+    {
+        "id": "less",
+        "palavra": "less",
+        "traducao": "menos",
+        "pronuncia": "lés"
+    },
+    {
+        "id": "feckless",
+        "palavra": "feckless",
+        "traducao": "ineficiente, sem iniciativa",
+        "pronuncia": "féklés"
+    },
+    {
+        "id": "reckless",
+        "palavra": "reckless",
+        "traducao": "imprudente, inconsequente",
+        "pronuncia": "réklés"
+    },
+    {
+        "id": "dauntless",
+        "palavra": "dauntless",
+        "traducao": "destemido, intrépido",
+        "pronuncia": "dóntlés"
+    },
+    {
+        "id": "guileless",
+        "palavra": "guileless",
+        "traducao": "sincero, sem malícia",
+        "pronuncia": "gáil-lés"
+    },
+    {
+        "id": "fathomless",
+        "palavra": "fathomless",
+        "traducao": "insondável, impossível de compreender profundamente",
+        "pronuncia": "fédam-lés"
+    },
+    {
+        "id": "homeless",
+        "palavra": "homeless",
+        "traducao": "sem-teto",
+        "pronuncia": "rôum-lés"
+    },
+    {
+        "id": "wireless",
+        "palavra": "wireless",
+        "traducao": "sem fio",
+        "pronuncia": "uáiâr-lés"
+    },
+    {
+        "id": "powerless",
+        "palavra": "powerless",
+        "traducao": "sem poder / impotente",
+        "pronuncia": "páuâr-lés"
+    },
+    {
+        "id": "endless",
+        "palavra": "endless",
+        "traducao": "sem fim",
+        "pronuncia": "énd-lés"
+    },
+    {
+        "id": "hopeless",
+        "palavra": "hopeless",
+        "traducao": "sem esperança",
+        "pronuncia": "rôup-lés"
+    },
+    {
+        "id": "careless",
+        "palavra": "careless",
+        "traducao": "descuidado, negligente",
+        "pronuncia": "kér-lés"
+    },
+    {
+        "id": "fearless",
+        "palavra": "fearless",
+        "traducao": "destemido, sem medo",
+        "pronuncia": "fír-lés"
+    },
+    {
+        "id": "useless",
+        "palavra": "useless",
+        "traducao": "inútil, sem utilidade",
+        "pronuncia": "iúz-lés"
+    },
+    {
+        "id": "meaningless",
+        "palavra": "meaningless",
+        "traducao": "sem significado, sem sentido",
+        "pronuncia": "míning-lés"
+    },
+    {
+        "id": "helpless",
+        "palavra": "helpless",
+        "traducao": "indefeso, sem ajuda, impotente",
+        "pronuncia": "rélp-lés"
+    }
+]

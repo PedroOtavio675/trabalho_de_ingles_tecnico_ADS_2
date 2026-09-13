@@ -1,0 +1,98 @@
+[
+    {
+        "id": "re",
+        "palavra": "re",
+        "traducao": "novamente / de novo",
+        "pronuncia": "rí"
+    },
+    {
+        "id": "rekindle",
+        "palavra": "rekindle",
+        "traducao": "reacender",
+        "pronuncia": "ri-kíndou"
+    },
+    {
+        "id": "reclaim",
+        "palavra": "reclaim",
+        "traducao": "recuperar / reivindicar",
+        "pronuncia": "ri-klêim"
+    },
+    {
+        "id": "reshape",
+        "palavra": "reshape",
+        "traducao": "remodelar",
+        "pronuncia": "ri-shêip"
+    },
+    {
+        "id": "reforge",
+        "palavra": "reforge",
+        "traducao": "reforjar",
+        "pronuncia": "ri-fórdj"
+    },
+    {
+        "id": "reawaken",
+        "palavra": "reawaken",
+        "traducao": "despertar novamente",
+        "pronuncia": "ri-awêiken"
+    },
+    {
+        "id": "recycle",
+        "palavra": "recycle",
+        "traducao": "reciclar",
+        "pronuncia": "ri-sái-kou"
+    },
+    {
+        "id": "restart",
+        "palavra": "restart",
+        "traducao": "reiniciar",
+        "pronuncia": "ri-stárt"
+    },
+    {
+        "id": "replay",
+        "palavra": "replay",
+        "traducao": "reproduzir novamente",
+        "pronuncia": "ri-plêi"
+    },
+    {
+        "id": "reuse",
+        "palavra": "reuse",
+        "traducao": "reutilizar",
+        "pronuncia": "ri-iúz"
+    },
+    {
+        "id": "reconnect",
+        "palavra": "reconnect",
+        "traducao": "reconectar",
+        "pronuncia": "ri-kâ-nékt"
+    },
+    {
+        "id": "rebuild",
+        "palavra": "rebuild",
+        "traducao": "reconstruir",
+        "pronuncia": "ri-bíld"
+    },
+    {
+        "id": "rewrite",
+        "palavra": "rewrite",
+        "traducao": "reescrever",
+        "pronuncia": "ri-ráit"
+    },
+    {
+        "id": "recover",
+        "palavra": "recover",
+        "traducao": "recuperar / recobrar",
+        "pronuncia": "ri-kâvâr"
+    },
+    {
+        "id": "review",
+        "palavra": "review",
+        "traducao": "revisar / analisar novamente",
+        "pronuncia": "ri-viú"
+    },
+    {
+        "id": "restore",
+        "palavra": "restore",
+        "traducao": "restaurar / recuperar algo ao estado anterior",
+        "pronuncia": "ri-stór"
+    }
+]
